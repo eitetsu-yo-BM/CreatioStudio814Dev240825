@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "3255a6bc-8693-a523-a653-776e49a8ad1b",
+    "Name": "DeleteClassicUIRealtyTypePostgreSql",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1724673949000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

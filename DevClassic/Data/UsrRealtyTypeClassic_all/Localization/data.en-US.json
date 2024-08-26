@@ -10,12 +10,12 @@
         {
           "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
           "ColumnName": "Name",
-          "Value": "4. Parking lot"
+          "Value": "4. Parking"
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
           "ColumnName": "Description",
-          "Value": ""
+          "Value": "expensive"
         }
       ]
     },
@@ -34,26 +34,7 @@
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
           "ColumnName": "Description",
-          "Value": ""
-        }
-      ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "ColumnName": "Id",
-          "Value": "ed43f0f6-3d97-4221-a085-707de667773f"
-        },
-        {
-          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-          "ColumnName": "Name",
-          "Value": "3. Land area"
-        },
-        {
-          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "ColumnName": "Description",
-          "Value": ""
+          "Value": "demo"
         }
       ]
     },
@@ -72,7 +53,7 @@
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
           "ColumnName": "Description",
-          "Value": ""
+          "Value": "house"
         }
       ]
     }
