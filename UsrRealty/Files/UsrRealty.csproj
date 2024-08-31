@@ -506,11 +506,6 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="MrktReloadData">
-			<HintPath>$(RelativePkgFolderPath)/MrktReloadData/$(StandalonePackageAssemblyPath)/MrktReloadData.dll</HintPath>
-			<SpecificVersion>False</SpecificVersion>
-			<Private>False</Private>
-		</Reference>
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
