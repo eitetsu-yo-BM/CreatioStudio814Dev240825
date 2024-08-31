@@ -437,6 +437,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
             handler: async (request, next) => {
               /* if price changed or percent changed */
               if (request.attributeName === 'PDS_UsrPriceUSD_1788wwe' || request.attributeName === 'PDS_UsrOfferTypeUsrCommissionPercent') {
+                //debugger;
                 var price = await request.$context.PDS_UsrPriceUSD_1788wwe;
                 var percent = await request.$context.PDS_UsrOfferTypeUsrCommissionPercent;
                 var commission = price * percent / 100;
