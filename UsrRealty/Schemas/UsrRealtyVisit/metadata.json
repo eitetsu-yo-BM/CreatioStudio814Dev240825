@@ -18,6 +18,10 @@
 = MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
 = MetaData.Schema.EG1.JC1 []
 = MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D38 true
 + MetaData.Schema.D2 {
   "UId": "4c632a6d-bf32-9cf6-4cf3-5a62090147a0",
   "A2": "UsrComment",
@@ -66,7 +70,23 @@
   "E17": "UsrParentRealtyId",
   "E18": "UsrParentRealtyUsrName"
 }
-~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","4c632a6d-bf32-9cf6-4cf3-5a62090147a0","23d7cd90-42a3-1920-2c0e-e4052f015d31","ea85a824-b525-b0f5-a589-b0ea50c1dde7","929bb938-64f6-624e-5cf3-ba46d44a5b89"]
++ MetaData.Schema.D2 {
+  "UId": "0e023a65-7338-f55f-d209-d05808a362ab",
+  "A2": "UsrOwner",
+  "A3": "4059dd18-2149-42ba-b1d4-49c6b161834a",
+  "A4": "4059dd18-2149-42ba-b1d4-49c6b161834a",
+  "A5": "7336676f-9aaf-4d89-99e5-256ce2d9ac10",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+  "E6": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
+  "E17": "UsrOwnerId",
+  "E18": "UsrOwnerName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","4c632a6d-bf32-9cf6-4cf3-5a62090147a0","23d7cd90-42a3-1920-2c0e-e4052f015d31","ea85a824-b525-b0f5-a589-b0ea50c1dde7","929bb938-64f6-624e-5cf3-ba46d44a5b89","0e023a65-7338-f55f-d209-d05808a362ab"]
 = MetaData.Schema.D20.A2 "UsrRealtyVisitEvents"
 = MetaData.Schema.D36.A3 "4059dd18-2149-42ba-b1d4-49c6b161834a"
 = MetaData.Schema.D36.BS1 false
