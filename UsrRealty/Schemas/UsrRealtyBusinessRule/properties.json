@@ -1,0 +1,8 @@
+﻿{
+  "Properties": {
+    "AddonName": "BusinessRule",
+    "CreatedInVersion": "8.1.4.2889",
+    "TargetSchemaManagerName": "EntitySchemaManager",
+    "TargetSchemaUId": "f9b0c02d-58f9-4a0e-9a9b-9349f8894720"
+  }
+}

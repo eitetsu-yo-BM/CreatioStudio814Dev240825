@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Realty" />
 			<Item Name="Columns.UsrArea.Caption" Value="Area, sq m" />
+			<Item Name="Columns.UsrCity.Caption" Value="City" />
 			<Item Name="Columns.UsrComment.Caption" Value="Comment" />
 			<Item Name="Columns.UsrCommissionUSD.Caption" Value="Commission, USD" />
 			<Item Name="Columns.UsrManager.Caption" Value="Manager" />
@@ -11,6 +12,7 @@
 			<Item Name="Columns.UsrNumber.Caption" Value="Number" />
 			<Item Name="Columns.UsrOfferType.Caption" Value="Offer type" />
 			<Item Name="Columns.UsrPriceUSD.Caption" Value="Price, USD" />
+			<Item Name="Columns.UsrRegion.Caption" Value="Region" />
 			<Item Name="Columns.UsrType.Caption" Value="Type" />
 		</Items>
 	</Group>
